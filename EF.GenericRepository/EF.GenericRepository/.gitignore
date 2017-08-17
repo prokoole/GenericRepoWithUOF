@@ -1,0 +1,4 @@
+*.suo
+**/EF.GenericRepository.sln.ide
+**/bin
+**/obj

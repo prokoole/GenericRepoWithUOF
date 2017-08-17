@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Christos Matskas</authors>
+    <owners>Christos Matskas</owners>
+    <projectUrl>https://github.com/cmatskas/EF.GenericRepository</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An EntityFramework generic repository with graph management</description>
+    <releaseNotes>A first attempt to release an open source generic repository for EF</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>EntityFramework Repository Generic C#</tags>
+  </metadata>
+</package>
